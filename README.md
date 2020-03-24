@@ -1,4 +1,4 @@
-# rendezvous-cov19 : Initié par CREDIA(Centre de Recherche en Developement de l'Informatique Appliquée, à l'Ecole Supérieure d'Informatique Salama) et developé par le monde
+# rendezvous-cov19 : Initié par CREDIA(Centre de Recherche et Developement en Informatique Appliquée, à l'Ecole Supérieure d'Informatique Salama) et developé par le monde
 Ce projet est un système de reservation de rendez-vous en ligne pour éviter les attroupements dans des banques, super marché et toutes les instutitions critiques qui doivent rester ouvertes et entrain de fonctionner pendant la période de crise. Pour éviter d'avoir plusieurs personnes dans un local, on prend en compte la capacité d'acceuil de chaque institution (batiment) et limiter le nombre de rendez-vous disponible par rapport à cette capacité d'acceuil. Cette application aide aussi de tracer toutes les personnes qui ont visité un endroit dans l'éventualité d'une possible contamination.
 L'application devra avoir un dashboard pour les institutions afin de gérer les rendez-vous et une partie applicative qui exigera un email et un numéro de téléphone pour le client. L'email permet de synchroniser l'application google calendar sur le téléphone du client et le numéro de téléphone permettra de contacter ce dernier.
 Une partie mobile pourrait etre proposée plus tard.
@@ -14,3 +14,6 @@ Le fonctionnement de l'application :
 - Pour toutes les personnes à risque par exemple. Si vous visiter des zones à risques les derniers 15 jours par exemple. Les zones à risque peuvent etre l'Europe en entierete actuellement mais cela peut changer comme nous avons vu la chine qui ne serait plus considérée comme une zone rouge complétement.
 
 L'avantage avec cette application est que les données pourront être utilisées par le ministère de la santé pour tracer les personnes qui ont visitées une institution où les gens ont été contaminés par exemple.
+
+Web language : PHP
+Mobile platform : Android
